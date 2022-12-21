@@ -7,6 +7,7 @@ Furthermore, I gained an understanding of the concept of encapsulation, which in
 
 The rules to the game can be seen in the matrix below:
 | Choice	| Rock	|Paper	|Scissor 	|Lizard	|Spock |
+| --------|:------:|-----:|--------:|------:|-----:| 
 | Rock	  | 0	    |-1	    |  1	    |  1	  |   -1 |
 | Paper	  | 1	    |0	    | -1	    | -1	  |    1 |
 | Scissor |-1	    |1	    |  0	    |  1	  |   -1 |
